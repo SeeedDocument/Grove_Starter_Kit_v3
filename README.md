@@ -7,6 +7,7 @@ Wiki Link: [wiki.seeed.cc](wiki.seeed.cc)
 Change Log:
 
 - 2016-11-3: create repos by Jeremy (Jeremy.xiao@seeed.cc)
+- 2019-12-4: add a new author       (turmary@126.com)
 
 ## About Seeed
 
